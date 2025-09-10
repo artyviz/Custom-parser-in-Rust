@@ -63,7 +63,7 @@ This parser is just one step forward. Next, I’ll be working on:
 ### Build & Run
 
 ```bash
-git clone https://github.com/yourusername/rust-parser.git
+git clone https://github.com/artyviz/Custom-parser-in-Rust
 cd rust-parser
 cargo run
 ```
