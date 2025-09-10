@@ -1,6 +1,6 @@
 # Custom Parser in Rust (Part 2)
 
-[![A Custom Parser](./src/comp.png)](https://youtu.be/yKzcWMr7YX8)
+[![A Custom Parser](./src/comp1.png)](https://youtu.be/yKzcWMr7YX8)
 
 
 This project is the **second milestone** in my journey toward compiler construction. After building a custom lexer and tokenizer, I’ve now implemented a **Pratt Parser** in Rust. The parser takes the stream of tokens and constructs an **Abstract Syntax Tree (AST)** — the structured backbone of any programming language.
